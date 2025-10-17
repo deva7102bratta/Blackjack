@@ -8,7 +8,7 @@ let sumEl = document.querySelector("#sum-el")
 let cardEl = document.querySelector("#card-el")
 
 let player = {
-    name : "Devabratta",
+    name : "USER",
     chips : 345
 }
 
